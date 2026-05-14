@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">630420617430-l8oeb63upnhgr786rhlftc2f1c3lpemu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">630420617430</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoAJ0Vvxk7XTfuctjJyLYzbqdzPvHDoGE</string>
+    <string name="google_app_id" translatable="false">1:630420617430:android:9b0ddaa4b3a8b45f09f177</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoAJ0Vvxk7XTfuctjJyLYzbqdzPvHDoGE</string>
+    <string name="google_storage_bucket" translatable="false">santhe-connect-99b6c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">santhe-connect-99b6c</string>
+</resources>
